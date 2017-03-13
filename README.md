@@ -22,7 +22,7 @@ Please refer to the <a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017
 <ul>
 <li> Lecture slides that will be regularly posted
 <li> <a href = "http://www.deeplearningbook.org/">Deep Learning</a>, by Ian Goodfellow and Yoshua Bengio and Aaron Courville (freely downloadable!)
-<li> iTorch notebooks for topics covered in class can be found <a href="">here</a>
+<li> All <a href="https://github.com/facebook/iTorch">iTorch</a> notebooks for topics covered in class can be found <a href="">here</a>
 </ul>
 #### Tutorials and other useful resources
 <ul>
