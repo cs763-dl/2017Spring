@@ -33,7 +33,7 @@ Please refer to the <a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017
 </ul>
 	
 #### Assignment
-We will use Kaggle to host the leader board for the assignmnet. You will be able to sumbit <a href="https://inclass.kaggle.com/c/cse763-cifar10">this</a> assignment on Kaggle using your @iitb.ac.in email ids and check where you stand as compared to others in real time. More details can be found <a>here</a>.
+We will use Kaggle to host the leader board for the assignmnet. You will be able to sumbit <a href="https://inclass.kaggle.com/c/cse763-cifar10">this</a> assignment on Kaggle using your @iitb.ac.in email ids and check where you stand as compared to others in real time. More details about the assignment can be found <a>here</a>.
 
 
 
