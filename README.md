@@ -32,6 +32,8 @@ Please refer to the <a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017
 	<li> <a href="https://github.com/terryum/awesome-deep-learning-papers">Awesome deep learning papers</a>
 </ul>
 	
+#### Assignment
+We will use Kaggle to score and submit the assignmnet. You will be able to sumbit to <a href="https://inclass.kaggle.com/c/cse763-cifar10">this</a> assignment using your @iitb.ac.in email ids. More details can be found <a>here</a>.
 
 
 
