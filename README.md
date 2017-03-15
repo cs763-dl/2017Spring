@@ -41,7 +41,7 @@ Tutorials and other useful resources
 	
 Assignment
 ----------
-We will use Kaggle to host the leader board for the assignmnet. You will be able to sumbit <a href="https://inclass.kaggle.com/c/cse763-cifar10">this</a> assignment on Kaggle using your @iitb.ac.in email ids and check where you stand as compared to others in real time. More details about the assignment can be found <a here="https://github.com/cs763-dl/2017Spring/blob/master/Assignment/CS763-assignment-4.pdf">here</a>.
+We will use Kaggle to host the leader board for the assignment. You will be able to sumbit <a href="https://inclass.kaggle.com/c/cse763-cifar10">this</a> assignment on Kaggle using your @iitb.ac.in email ids and check where you stand as compared to others in real time. More details about the assignment can be found <a here="https://github.com/cs763-dl/2017Spring/blob/master/Assignment/CS763-assignment-4.pdf">here</a>. The sample data can be downloaded from <a>here</a>.
 
 
 
