@@ -2,7 +2,8 @@
 Deep Learning (for Computer Vision - CS 763) Module - Spring 2017
 ===================
 
-#### Course Information
+Course Information
+------------------
 Please refer to the <a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017/">CS763 Spring 2017</a> course page for general information. On this page, you will find specific information for the 6 lectures that are to be taught be <a href="http://cse.iit.ac.in/~ajain/">Prof. Arjun Jain</a>.
 <ul>
 <li><b>Instructor:</b> <a href="http://cse.iit.ac.in/~ajain/">Arjun Jain</a>
@@ -10,7 +11,9 @@ Please refer to the <a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017
 <li><b>Email:</b> <i>ajain@cse DOT iitb DOT ac DOT in</i>
 <li><b>Instructor Office Hours (in room 216 CSE New Building):</b> Prof. Arjun Jain is on campus only on Fridays (and Saturdays for the 3 weeks during this course). Meet him after class or fix an appointment over email.
 </ul>
-#### Topics to be covered (tentative)
+
+Topics to be covered (tentative)
+--------------------------------
 <ul>
 <li> The data driven paradigm, feed forwards networks, back propagation and chain rule
 <li> CNNs and their building blocks -  ReLU, MaxPool, Convolution, CrossEntropy, etc.
@@ -18,13 +21,17 @@ Please refer to the <a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017
 <li> CNN applications, CNN compression
 <li> Siamese and triplet networks, (and if time permits) - GANs
 </ul>	
-#### Learning materials and textbooks
+
+Learning materials and textbooks
+--------------------------------
 <ul>
 <li> Lecture slides that will be regularly posted
 <li> <a href = "http://www.deeplearningbook.org/">Deep Learning</a>, by Ian Goodfellow and Yoshua Bengio and Aaron Courville (freely downloadable!)
 <li> All <a href="https://github.com/facebook/iTorch">iTorch</a> notebooks for topics covered in class can be found <a href="">here</a>
 </ul>
-#### Tutorials and other useful resources
+
+Tutorials and other useful resources
+------------------------------------
 <ul>
 	<li> <a href="http://tylerneylon.com/a/learn-lua/">Learn Lua in 15 minutes</a>
 	<li> <a href="https://github.com/torch/torch7/blob/master/doc/tensor.md">Torch's Tensor class</a>
@@ -32,11 +39,14 @@ Please refer to the <a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017
 	<li> <a href="https://github.com/terryum/awesome-deep-learning-papers">Awesome deep learning papers</a>
 </ul>
 	
+Assignment
+----------
+We will use Kaggle to host the leader board for the assignmnet. You will be able to sumbit <a href="https://inclass.kaggle.com/c/cse763-cifar10">this</a> assignment on Kaggle using your @iitb.ac.in email ids and check where you stand as compared to others in real time. More details about the assignment can be found <a>here</a>.
 
 
 
-####Lecture Schedule: 
-
+Lecture Schedule: 
+-----------------
 <table>
   <tbody>
     <tr>
