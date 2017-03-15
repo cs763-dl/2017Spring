@@ -27,7 +27,7 @@ Learning materials and textbooks
 <ul>
 <li> Lecture slides that will be regularly posted
 <li> <a href = "http://www.deeplearningbook.org/">Deep Learning</a>, by Ian Goodfellow and Yoshua Bengio and Aaron Courville (freely downloadable!)
-<li> All <a href="https://github.com/facebook/iTorch">iTorch</a> notebooks for topics covered in class can be found <a href="">here</a>
+<li> All <a href="https://github.com/facebook/iTorch">iTorch</a> notebooks for topics covered in class can be found <a href="https://github.com/cs763-dl/2017Spring/blob/master/Assignment/CS763-assignment-4.pdf">here</a>
 </ul>
 
 Tutorials and other useful resources
