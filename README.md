@@ -70,8 +70,8 @@ Lecture Schedule:
       <td><a href="slides">Slides</a></td>
       <td>
 	      <ul>
-	      <li><a href="slides">Notebook 1</a></li>
-	            <li><a href="slides">Notebook 2</a></li>
+	      <li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/NN.ipynb">kNN Notebook</a></li>
+	            <li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/manual_update.ipynb">Numerical Gradient Notebook</a></li>
 	      </ul>
 	  </td>
       <td>--</td>
