@@ -4,9 +4,9 @@ Deep Learning (for Computer Vision - CS 763) Module - Spring 2017
 
 Course Information
 ------------------
-Please refer to the <a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017/">CS763 Spring 2017</a> course page for general information. On this page, you will find specific information for the lectures that will be taught by <a href="http://cse.iit.ac.in/~ajain/">Prof. Arjun Jain</a>.
+Please refer to the <a href="https://www.cse.iitb.ac.in/~ajitvr/CS763_Spring2017/">CS763 Spring 2017</a> course page for general information. On this page, you will find specific information for the lectures that will be taught by <a href="http://cse.iitb.ac.in/~ajain/">Prof. Arjun Jain</a>.
 <ul>
-<li><b>Instructor:</b> <a href="http://cse.iit.ac.in/~ajain/">Arjun Jain</a>
+<li><b>Instructor:</b> <a href="http://cse.iitb.ac.in/~ajain/">Arjun Jain</a>
 <li><b>Office:</b> 216, CSE New Building
 <li><b>Email:</b> <i>ajain@cse DOT iitb DOT ac DOT in</i>
 <li><b>Instructor Office Hours (in room 216 CSE New Building):</b> Prof. Arjun Jain is on campus only on Fridays (and Saturdays for the 3 weeks during this course). Meet him after class or fix an appointment over email.
