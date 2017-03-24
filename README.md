@@ -58,7 +58,7 @@ Lecture Schedule:
       <td>24/03/2017</td>
       <td>
 	      <ul>
-	      <li> Brief history /achievements of DL based algorithms</li>
+	      <li> Brief history/achievements of DL based algorithms</li>
 	      <li> The data driven paradigm</li>
 	      <li> Classification using k-nearest neighbor algorithm</li>
 	      <li> Classification using a linear classifier</li>
