@@ -63,9 +63,10 @@ Lecture Schedule:
 	      <li> Classification using k-nearest neighbor algorithm</li>
 	      <li> Classification using a linear classifier</li>
 	      <li> Optimization using vanilla gradient descent</li>
+	      <li> Feed forward networks </li>
 	      </ul>
       </td>
-      <td><a href="slides">Slides</a></td>
+      <td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_1.pdf">Slides</a></td>
       <td>
 	      <ul>
 	      <li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/NN.ipynb">Vanilla kNNs</a></li>
