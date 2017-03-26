@@ -75,6 +75,25 @@ Lecture Schedule:
 	  </td>
       <td>--</td>
     </tr>    
+    
+    <tr>
+      <td>25/03/2017</td>
+      <td>
+	      <ul>
+	      <li> Chain rule/backward propagation</li>
+	      <li> Torch7 nn.Module</li>
+	      <li> Activation functions</li>
+	      </ul>
+      </td>
+      <td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_2.pdf">Slides</a></td>
+      <td>
+	      <ul>
+	      <li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/ReLU.ipynb">ReLU Activation Funciton</a></li>
+	      </ul>
+	  </td>
+      <td>--</td>
+    </tr>
+    
   </tbody>
 </table>
 
