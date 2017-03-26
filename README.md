@@ -75,7 +75,6 @@ Lecture Schedule:
 	  </td>
       <td>--</td>
     </tr>    
-    
     <tr>
       <td>25/03/2017</td>
       <td>
