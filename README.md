@@ -92,7 +92,29 @@ Lecture Schedule:
 	  </td>
       <td>--</td>
     </tr>
-    
+<tr>
+<td>25/03/2017</td>
+<td>
+<ul>
+<li> Fully Conncted Layer</li>
+<li> Convolution Layer</li>
+<li> Fully Connected as Convolution</li>
+<li> Cross Entropy Layer</li>
+<li> Dropout Layer</li>
+<li> Data Preprocessing and Augmentation</li>
+<li> Weight Initialization</li>
+<li> Baby Sitting the Learning Process</li>
+<li> Hyper-parameter Optimization/li>
+</ul>
+</td>
+<td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_4.pdf">Slides</a></td>
+<td>
+<ul>
+<li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/Linear.ipynb">Fully Conncted Layer</a></li>
+</ul>
+</td>
+<td>--</td>
+</tr>
   </tbody>
 </table>
 
