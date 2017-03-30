@@ -51,8 +51,7 @@ Lecture Schedule:
       <th>Date</th>
       <th>Topics</th>
       <th>Slides</th>
-      <th>Notebooks</th>
-      <th>Extra</th>      
+      <th>Notebooks</th>    
     </tr>
     <tr>
       <td>24/03/2017</td>
@@ -73,7 +72,6 @@ Lecture Schedule:
 	            <li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/manual_update.ipynb">Numerical Gradients</a></li>
 	      </ul>
 	  </td>
-      <td>--</td>
     </tr>    
     <tr>
       <td>25/03/2017</td>
@@ -90,7 +88,6 @@ Lecture Schedule:
 	      <li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/ReLU.ipynb">ReLU Activation Funciton</a></li>
 	      </ul>
 	  </td>
-      <td>--</td>
     </tr>
 <tr>
 <td>31/03/2017</td>
@@ -115,7 +112,6 @@ Lecture Schedule:
 <li><a href="">Cross Entropy Layer</a></li>
 </ul>
 </td>
-<td>--</td>
 </tr>
   </tbody>
 </table>
