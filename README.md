@@ -98,7 +98,7 @@ Lecture Schedule:
 <li> Fully Connected as Convolution</li>
 </ul>
 </td>
-<td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_4.pdf">Slides</a></td>
+<td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_3.pdf">Slides</a></td>
 <td>
 <ul>
 <li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/Linear.ipynb">Fully Conncted Layer</a></li>
