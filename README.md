@@ -96,6 +96,21 @@ Lecture Schedule:
 <li> Fully Conncted Layer</li>
 <li> Convolution Layer</li>
 <li> Fully Connected as Convolution</li>
+</ul>
+</td>
+<td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_4.pdf">Slides</a></td>
+<td>
+<ul>
+<li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/Linear.ipynb">Fully Conncted Layer</a></li>
+<li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/Convolution.ipynb">Convolution Layer</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>1/04/2017</td>
+<td>
+<ul>
+<li> Max Pool Layer</li>
 <li> Cross Entropy Layer</li>
 <li> Dropout Layer</li>
 <li> Data Preprocessing and Augmentation</li>
@@ -107,9 +122,9 @@ Lecture Schedule:
 <td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_4.pdf">Slides</a></td>
 <td>
 <ul>
-<li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/Linear.ipynb">Fully Conncted Layer</a></li>
-<li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/Convolution.ipynb">Convolution Layer</a></li>
-<li><a href="">Cross Entropy Layer</a></li>
+<li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/MaxPool.ipynb">Max Pool Layer</a></li>
+<li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/Dropout.ipynb">Dropout Layer</a></li>
+<li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/WeightInit.ipynb">Weight Initialization</a></li>
 </ul>
 </td>
 </tr>
