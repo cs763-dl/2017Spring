@@ -51,7 +51,7 @@ Lecture Schedule:
       <th>Date</th>
       <th>Topics</th>
       <th>Slides</th>
-      <th>Notebooks</th>    
+      <th>iTorch Notebooks</th>    
     </tr>
     <tr>
       <td>24/03/2017</td>
