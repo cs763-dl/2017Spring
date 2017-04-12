@@ -134,6 +134,7 @@ Lecture Schedule:
 <ul>
 <li>CNN Case Studies
 <li> Myth buster: You need a lot of data to train ConvNets (false!)
+<li>Visualizing and understanding ConvNets
 </ul>
 </td>
 <td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_5.pdf">Slides</a></td>
@@ -144,7 +145,8 @@ Lecture Schedule:
 <td>08/04/2017</td>
 <td>
 <ul>
-<li>Visualizing and understanding ConvNets
+<li>Visualizing and understanding ConvNets (cont.)
+<li>Art/Fun with NNs (NeuralArt, DeepDream)
 <li>CNN Compression
 </ul>
 </td>
