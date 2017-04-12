@@ -107,7 +107,7 @@ Lecture Schedule:
 </td>
 </tr>
 <tr>
-<td>1/04/2017</td>
+<td>01/04/2017</td>
 <td>
 <ul>
 <li> Max Pool Layer</li>
@@ -126,6 +126,40 @@ Lecture Schedule:
 <li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/Dropout.ipynb">Dropout Layer</a></li>
 <li><a href="https://github.com/cs763-dl/2017Spring/blob/master/Notebooks/WeightInit.ipynb">Weight Initialization</a></li>
 </ul>
+</td>
+</tr>
+<tr>
+<td>07/04/2017</td>
+<td>
+<ul>
+<li> Max Pool Layer</li>
+<li> Cross Entropy Layer</li>
+<li> Dropout Layer</li>
+<li> Data Preprocessing and Augmentation</li>
+<li> Weight Initialization</li>
+<li> Baby Sitting the Learning Process</li>
+<li> Hyper-parameter Optimization</li>
+</ul>
+</td>
+<td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_5.pdf">Slides</a></td>
+<td>
+</td>
+</tr>
+<tr>
+<td>08/04/2017</td>
+<td>
+<ul>
+<li> Max Pool Layer</li>
+<li> Cross Entropy Layer</li>
+<li> Dropout Layer</li>
+<li> Data Preprocessing and Augmentation</li>
+<li> Weight Initialization</li>
+<li> Baby Sitting the Learning Process</li>
+<li> Hyper-parameter Optimization</li>
+</ul>
+</td>
+<td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_6.pdf">Slides</a></td>
+<td>
 </td>
 </tr>
   </tbody>
