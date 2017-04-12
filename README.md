@@ -132,13 +132,8 @@ Lecture Schedule:
 <td>07/04/2017</td>
 <td>
 <ul>
-<li> Max Pool Layer</li>
-<li> Cross Entropy Layer</li>
-<li> Dropout Layer</li>
-<li> Data Preprocessing and Augmentation</li>
-<li> Weight Initialization</li>
-<li> Baby Sitting the Learning Process</li>
-<li> Hyper-parameter Optimization</li>
+<li>CNN Case Studies
+<li> Myth buster: You need a lot of data to train ConvNets (false!)
 </ul>
 </td>
 <td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_5.pdf">Slides</a></td>
@@ -149,13 +144,8 @@ Lecture Schedule:
 <td>08/04/2017</td>
 <td>
 <ul>
-<li> Max Pool Layer</li>
-<li> Cross Entropy Layer</li>
-<li> Dropout Layer</li>
-<li> Data Preprocessing and Augmentation</li>
-<li> Weight Initialization</li>
-<li> Baby Sitting the Learning Process</li>
-<li> Hyper-parameter Optimization</li>
+<li>Visualizing and understanding ConvNets
+<li>CNN Compression
 </ul>
 </td>
 <td><a href="https://github.com/cs763-dl/2017Spring/blob/master/Slides/Lec_6.pdf">Slides</a></td>
